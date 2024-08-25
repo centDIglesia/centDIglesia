@@ -1,4 +1,4 @@
-## 👋 Hi, I'm @centDIglesia
+## 👋 Hi, I'm Vincentie
 
 **Aspiring Front-End Web Developer**  
 Passionate about creating responsive and interactive web applications.
@@ -25,12 +25,7 @@ Passionate about creating responsive and interactive web applications.
 ---
 
 ### 📫 How to Reach Me
-- [Your Email or Social Media Links]
-
----
-
-### 😄 Pronouns
-- [Your Pronouns]
+- vincent.iglesia07@gmail.com
 
 ---
 
