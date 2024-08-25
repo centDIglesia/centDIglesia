@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Centie
 
 🚀 **Aspiring Front-End Web Developer**  
 I'm passionate about building beautiful and responsive web applications using the latest technologies like React.js and Tailwind CSS.
@@ -15,13 +15,6 @@ I'm passionate about building beautiful and responsive web applications using th
 
 ---
 
-### 📚 My Recent Articles
-
-- [Article Title 1](#)
-- [Article Title 2](#)
-- [Article Title 3](#)
-
----
 
 ### ☕ If you find my work useful, consider buying me a coffee!
 
