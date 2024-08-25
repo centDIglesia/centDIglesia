@@ -1,33 +1,40 @@
-## 👋 Hi, I'm Vincentie
+# 👋 Hi there, I'm [Your Name]
 
-**Aspiring Front-End Web Developer**  
-Passionate about creating responsive and interactive web applications.
-
----
-
-### 👀 Interests
-- 🛠️ Building user-friendly websites
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) Crafting modern, clean UIs with React.js and Tailwind CSS
-- 🌐 Exploring the latest trends in web development
+🚀 **Aspiring Front-End Web Developer**  
+I'm passionate about building beautiful and responsive web applications using the latest technologies like React.js and Tailwind CSS.
 
 ---
 
-### 🌱 Currently Learning
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) **React.js** for powerful and dynamic user interfaces
-- 🎨 **Tailwind CSS** for rapid UI development with utility-first styling
+### 🛠️ When I Code, I Rely On
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 💞️ Looking to Collaborate On
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) Front-end projects, particularly those involving **React** and modern UI frameworks
-- 💻 Open-source projects where I can contribute to clean and efficient code
+### 📚 My Recent Articles
+
+- [Article Title 1](#)
+- [Article Title 2](#)
+- [Article Title 3](#)
 
 ---
 
-### 📫 How to Reach Me
-- vincent.iglesia07@gmail.com
+### ☕ If you find my work useful, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](#)
 
 ---
 
-### ⚡ Fun Fact
-- 🚀 I love experimenting with new web technologies and design patterns, always aiming to improve the user experience!
+### 📊 My GitHub Contributions Summary
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
+
+---
+
+### 🔥 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
